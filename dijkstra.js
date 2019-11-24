@@ -2,7 +2,6 @@
 let input1 = {
     start: [0,0],
     end:[4,2],
-
     route:[
         [1,0,0,0,1],
         [1,0,0,1,0],
@@ -17,7 +16,7 @@ getWay(input1);
 
 function getWay(input){
 
-
+    // starting point
     var start = { row: 0, col: 0, dist: 0};
 
     let been = [start];
