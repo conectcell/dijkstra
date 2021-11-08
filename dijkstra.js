@@ -1,6 +1,15 @@
 const a = 1
 const b = 2
 const c = 3
+
+const aa = 'aa'
+const bb = 'bb'
+const cc = 'cc'
+
+const aa1 = 'aa'
+const bb2 = 'bb'
+const cc3 = 'cc'
+
 let input1 = {
   start: [0, 0],
   end: [4, 2],
