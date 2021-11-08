@@ -1,6 +1,8 @@
 const a = 1
 const b = 2
 const c = 3
+
+const d = 4
 let input1 = {
   start: [0, 0],
   end: [4, 2],
